@@ -19,5 +19,5 @@ Hardware
 
 ## Contact info
 [linkedin](https://www.linkedin.com/in/haydensather/)  
-[Home page](TODO ADD)  
+[Home page](https://hrsather.github.io/)  
 [medium blog](https://medium.com/@hrsather)  
