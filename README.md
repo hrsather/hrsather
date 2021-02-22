@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to my personal GitHub page!
+My name is Hayden Sather and I am currently a graduate student at the Colorado School of Mines where I am pursuing two M.S. degrees in Computer Science and Data Science.  
+  
+Unfortunately, this GitHub page is currently pretty empty because every research project and internship that I have been involved in has had NDA's. But, I will be incrementally adding side-projects as time goes on.  
 
-<!--
-**hrsather/hrsather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
+Python  
+C++  
+C  
+R  
 
-Here are some ideas to get you started:
+## Special Interests
+Machine Learning  
+Artificial Intelligence  
+Self-Driving Vehicles  
+Robotics  
+Computer Networking  
+Hardware  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact info
+[linkedin](https://www.linkedin.com/in/haydensather/)  
+[Home page](TODO ADD)  
+[medium blog](https://medium.com/@hrsather)  
